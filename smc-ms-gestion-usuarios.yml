@@ -21,7 +21,7 @@ spring:
       ddl-auto: update
 
   datasource:
-    username: sa
-    password:
+    username: lrs
+    password: lrs
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:smc_ms_gestion_usuarios
